@@ -2,36 +2,5 @@
 # Tag-patterns
 generate a christmas tree with the given number of rows
 
-sample input:
-5
-
-sample output:
-          * 
-        * * * 
-      * * * * * 
-    * * * * * * * 
-  * * * * * * * * *
-          * 
-        * * * 
-      * * * * * 
-    * * * * * * * 
-  * * * * * * * * * 
-        * * *
-        * * *
-        * * *
-        * * *
-        * * *
-
-sample input:
-3
-
-Sample output:
-      * 
-    * * * 
-  * * * * * 
-      * 
-    * * * 
-  * * * * * 
-    * * *
-    * * *
-    * * *
+Since the sample output is not generating here, 
+i have attached the photos in the Issue pages.
